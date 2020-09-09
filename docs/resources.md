@@ -1,4 +1,4 @@
-## Lab Resources
+## Resources
 
 * Our slack (coming soon)
 * [Install or Update R/RStudio (and tidyverse)](https://uvastatlab.github.io/phdplus/installR.html)

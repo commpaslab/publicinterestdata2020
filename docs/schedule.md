@@ -14,8 +14,6 @@ Readings:
 R Materials:
 * [RYouWithMe; BasicBasics](https://rladiessydney.org/courses/ryouwithme/01-basicbasics-0/), Lessons 1,2,3, R-Ladies Sydney
 
-Assignment (due by noon 9/25):
-* R assignment 1 (tba)
 
 ### 9/25 Local Context/Past Work, Data Provenance and Processing
 
@@ -28,8 +26,9 @@ Readings:
 R Materials:
 *  [RYouWithMe; CleanItUp](https://rladiessydney.org/courses/ryouwithme/02-cleanitup-0), Lessons 1,2, R-Ladies Sydney
 
-Assignment (due by noon 10/2):
-* R assignment 2 (tba)
+Assignment (due by noon 9/25):
+* R assignment 1 (tba)
+
 
 ### 10/2 Local Context/Past Work, Challenges of Administrative Data
 
@@ -40,8 +39,8 @@ Readings:
 R materials:
 * [RYouWithMe; CleanItUp](https://rladiessydney.org/courses/ryouwithme/02-cleanitup-0), Lessons 3,4, R-Ladies Sydney
 
-Assignment (due by noon 10/9):
-* R/Data assignment 3 (tba)
+Assignment (due by noon 10/2):
+* R assignment 2 (tba)
 
 
 ### 10/9 Local Context/Past Work, Representing Race
@@ -54,8 +53,8 @@ Readings:
 R materials:
 * [RYouWithMe; VizWhiz](https://rladiessydney.org/courses/ryouwithme/03-vizwhiz-0/), Lesson 1, R-Ladies Sydney
 
-Assignment (due by noon 10/16):
-* R/Data assignment 4 (tba)
+Assignment (due by noon 10/9):
+* R/Data assignment 3 (tba)
 
 
 ### 10/16 Case Studies in Child Weflare
@@ -67,8 +66,8 @@ Readings: This week, half of the class will read the Eubanks selection, half wil
 R materials: 
 * [RYouWithMe; VizWhiz](https://rladiessydney.org/courses/ryouwithme/03-vizwhiz-0/), Lessons 2,3, R-Ladies Sydney
 
-Assignment (due by noon 10/23)
-* Team data report 1 (tba) in slack/project
+Assignment (due by noon 10/16):
+* R/Data assignment 4 (tba)
 
 
 ### 10/23 Digging into the Literature, Thinking about Methods
@@ -80,10 +79,8 @@ Readings:
 R materials: 
 * [RYouWithMe; VizWhiz](https://rladiessydney.org/courses/ryouwithme/03-vizwhiz-0/), Lesson 4 & [RYouWithMe; MarkyMark](https://rladiessydney.org/courses/ryouwithme/04-markymark-0/), Lessons 1-3, R-Ladies Sydney
 
-Assignment (due by noon 10/30)
-* Team research article synthesis 1 in slack/reading
-* Team data report 2 (tba) in slack/project
-* Team peer review of another team's data report 1 in slack/project
+Assignment (due by noon 10/23)
+* Team data report 1 (tba) in slack/project
 
 
 ### 10/30 Digging into the Literature, Thinking about Models
@@ -95,10 +92,10 @@ Readings:
 R materials: 
 * TBA
 
-Assignment (due by noon 11/6)
-* Team research article synthesis 2 in slack/reading
-* Team data report 3 (tba) in slack/project
-* Team peer review of another team's data report 2 in slack/project
+Assignment (due by noon 10/30)
+* Team research article synthesis 1 in slack/reading
+* Team data report 2 (tba) in slack/project
+* Team peer review of another team's data report 1 in slack/project
 
 
 ### 11/6 Digging into the Literature, Communicating Research
@@ -110,10 +107,10 @@ Readings:
 R materials: 
 * TBA
 
-Assignment (due by noon 11/13)
-* Team research article synthesis 3 in slack/reading
-* Team data report 4 (tba) in slack/project
-* Team peer review of another team's data report 3 in slack/project
+Assignment (due by noon 11/6)
+* Team research article synthesis 2 in slack/reading
+* Team data report 3 (tba) in slack/project
+* Team peer review of another team's data report 2 in slack/project
 
 
 ### 11/13 Thinking about Mapping
@@ -121,14 +118,21 @@ Assignment (due by noon 11/13)
 Readings: 
 * (to be updated) Craig M. Dalton and Tim Stallmann. 2018. ["Counter-Mapping Data Science."](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cag.12398) *The Canadian Geographer* 61: 93-101.
 
-Assignment (due by noon 11/20)
-* Draft Project Status Report in slack/project
+Assignment (due by noon 11/13)
+* Team research article synthesis 3 in slack/reading
+* Team data report 4 (tba) in slack/project
+* Team peer review of another team's data report 3 in slack/project
 
 
 ### 11/20 Report Revisions
 
 Readings: 
 * Ben Green. 2018. ["Data Science as Political Action: Grounding Data Science in a Politics of Justice."](https://arxiv.org/pdf/1811.03435) arXiv preprint arXiv:1811.03435. Part 2, pages 29-46.
+
+Assignment (due by noon 11/20)
+* Draft Project Status Report in slack/project
+
+### 12/4 (ish) in lieu of our final exam time
 
 Assignment (due by noon 12/4-ish)
 * Final Project Status Report in slack/project

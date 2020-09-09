@@ -15,5 +15,7 @@ Our Fall 2020 partner is the Albemarle County Department of Social Services (ADS
 ## Instructor
 
 Michele Claibourn
-[mailto:mclaibourn@virginia.edu](mclaibourn@virginia.edu)
-[http://mclaibourn.github.io](mclaibourn.github.io)
+
+* Email: [mclaibourn@virginia.edu](mailto:mclaibourn@virginia.edu)
+* Webpage: [mclaibourn.github.io](https://mclaibourn.github.io)
+* Office hours: Let's make an appointment. Reach out over email or on slack.

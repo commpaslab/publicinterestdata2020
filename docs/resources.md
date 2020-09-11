@@ -2,7 +2,7 @@
 
 * [Our slack](https://publicinteres-jhd4238.slack.com) (where much of our stuff happens)
 * [Perusall](https://perusall.com/) (for our collective thoughts on the reading)
-* Collab(https://collab.its.virginia.edu/portal/site/9c27fd2c-e719-4245-8efd-44a40e15b353) (probably not necessary once we get started)
+* [Collab](https://collab.its.virginia.edu/portal/site/9c27fd2c-e719-4245-8efd-44a40e15b353) (probably not necessary once we get started)
 * [Install or Update R/RStudio (and tidyverse)](https://uvastatlab.github.io/phdplus/installR.html)
 * [Best Practices/Coding style](https://github.com/commpaslab/publicinterestdata_2020/blob/master/code/examples/bestpractices.R)
 * [Spring 2020 Materials: Data Science Essentials in R](https://uvastatlab.github.io/phdplus2020/)

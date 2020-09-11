@@ -9,7 +9,7 @@ There are no books to purchase for this class. All readings are either freely av
 Readings:
 * Child Welfare Information Gateway. February 2013. [How the Child Welfare System Works.](https://www.childwelfare.gov/pubs/factsheets/cpswork/) Washington, DC: U.S. Department of Health and Human Services, Children's Bureau.
 * Child Welfare Information Gateway. November 2016. [Racial Disproportionality and Disparity in Child Welfare.](https://www.childwelfare.gov/pubs/issue-briefs/racial-disproportionality/) Washington, DC: U.S. Department of Health and Human Services, Children's Bureau.
-* Catherine D'Ignazio and Lauren F. Klein. 2020. ["Seven intersectional feminist principles for equitable and actionable COVID-19 data."](https://journals.sagepub.com/doi/10.1177/2053951720942544) *Big Data \& Society* 7: 1-5.
+* Catherine D'Ignazio and Lauren F. Klein. 2020. ["Seven Intersectional Feminist Principles for Equitable and Actionable COVID-19 Data."](https://journals.sagepub.com/doi/10.1177/2053951720942544) *Big Data \& Society* 7: 1-5.
 
 R Materials:
 * [RYouWithMe; BasicBasics](https://rladiessydney.org/courses/ryouwithme/01-basicbasics-0/), Lessons 1,2,3, R-Ladies Sydney
@@ -47,8 +47,8 @@ Assignment (due by noon 10/2):
 
 Readings:
 
-* Public Interest Data Lab. September 2020. *Charlottesville Child Welfare Study: Understanding Referral Disproportionality.* Prepared for the Charlottesville Department of Social Services.
-* W.E.B. Du Bois (tbd)
+* Public Interest Data Lab. September 2020. *Charlottesville Child Welfare Study: Understanding Referral Disproportionality.* Prepared for the Charlottesville Department of Social Services. (TBA)
+* Jason Forrest. 2018. ["W. E. B. Du Bois’ staggering Data Visualizations are as powerful today as they were in 1900 (Part 1)"](https://medium.com/nightingale/w-e-b-du-bois-staggering-data-visualizations-are-as-powerful-today-as-they-were-in-1900-64752c472ae4). Nightingale, the Journal of the Data Visualization Society. (Will be available on Perusall)
 
 R materials:
 * [RYouWithMe; VizWhiz](https://rladiessydney.org/courses/ryouwithme/03-vizwhiz-0/), Lesson 1, R-Ladies Sydney

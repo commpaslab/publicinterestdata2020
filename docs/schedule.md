@@ -27,7 +27,7 @@ R Materials:
 *  [RYouWithMe; CleanItUp](https://rladiessydney.org/courses/ryouwithme/02-cleanitup-0), Lessons 1,2, R-Ladies Sydney
 
 Assignment (due by noon 9/25):
-* R assignment 1 (tba)
+* [R assignment 1](week1-assignment.html)
 
 
 ### 10/2 Local Context/Past Work, Challenges of Administrative Data

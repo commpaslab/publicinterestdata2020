@@ -3,7 +3,7 @@
 We're working with different administrative data set this week as we await the new data from VDSS. This is data pulled from Virginia Court records and represents criminal cases filed in Albemarle County courts during 2019. A simple data dictionary is available on a [shared google sheet](https://docs.google.com/spreadsheets/d/182TfRgi8-m9EnzME9E3mCa6rTqGMmTh2IGMDvWIuZq4/edit?usp=sharing).
 
 ### What to do
-To start, download this zipped folder, assignment1. It contains 
+To start, [download this zipped folder, assignment1](assignment1.zip). It contains 
 
 * an .Rproj file which you should click to start an RStudio session
 * a data folder with the file alb_court.csv

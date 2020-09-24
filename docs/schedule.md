@@ -37,7 +37,7 @@ Readings:
 * Paul G. Stiles and Roger A. Boothroyd. 2015. ["Ethical Use of Administrative Data for Research Purposes."](https://www.aisp.upenn.edu/wp-content/uploads/2015/09/0033_12_SP2_Ethical_Admin_Data_001.pdf) (preprint version) In Fantuzzo and Culhane (eds) *Actionable Intelligence.* Palgrave Macmillan. Pages 4-9, 22-29.
 
 R materials:
-* [RYouWithMe; CleanItUp](https://rladiessydney.org/courses/ryouwithme/02-cleanitup-0), Lessons 3,4, R-Ladies Sydney
+* [RYouWithMe; CleanItUp](https://rladiessydney.org/courses/ryouwithme/02-cleanitup-0), Lessons 3,5, R-Ladies Sydney
 
 Assignment (due by noon 10/2):
 * [R assignment 2](week2-assignment.html)

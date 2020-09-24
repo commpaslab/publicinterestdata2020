@@ -16,5 +16,3 @@ Building from the assignment1 folder you downloaded last week (and I'm just now 
 
 ### What to submit
 For these first few assignments, send them to me via direct message in Slack. Submit an R script with your code to answer the questions above, including comments providing narrative responses, by noon Friday, 10/2.
-
-

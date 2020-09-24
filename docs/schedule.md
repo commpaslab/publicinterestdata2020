@@ -40,7 +40,7 @@ R materials:
 * [RYouWithMe; CleanItUp](https://rladiessydney.org/courses/ryouwithme/02-cleanitup-0), Lessons 3,4, R-Ladies Sydney
 
 Assignment (due by noon 10/2):
-* R assignment 2 (tba)
+* [R assignment 2](week2-assignment.html)
 
 
 ### 10/9 Local Context/Past Work, Representing Race

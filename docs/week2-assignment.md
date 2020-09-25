@@ -1,5 +1,7 @@
 ## Week 2 Assignment
 
+[Rnotes_20200925.R](https://raw.githubusercontent.com/commpaslab/publicinterestdata_2020/main/assignments/Rnotes_20200925.R)
+
 Let's continue with the data pulled from Virginia Court records -- hearings for criminal cases filed in Albemarle County courts during 2019. Again, a simple data dictionary is available on a [shared google sheet](https://docs.google.com/spreadsheets/d/182TfRgi8-m9EnzME9E3mCa6rTqGMmTh2IGMDvWIuZq4/edit?usp=sharing).
 
 ### What to do

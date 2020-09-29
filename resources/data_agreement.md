@@ -8,8 +8,7 @@ To insure the security of [moderately sensitive client data](http://security.vir
   
      * Here are instructions for [installing and using VeraCrypt on a PC](https://securityinabox.org/en/guide/veracrypt/windows/); here's another set of [instructions for PC](https://www.howtogeek.com/108501/the-how-to-geek-guide-to-getting-started-with-truecrypt/). 
      * Here are [instructions for a Mac](https://securityinabox.org/en/guide/veracrypt/mac/); for use on a Mac, you must also install [OSXFUSE, FUSE for MacOS](https://www.macupdate.com/app/mac/40156/fuse-for-macos) including the MacFUSE Compatibility Layer. 
-  * Create a standard volume; this is where we'll store the data.
-  * You'll view or call the data from, or save to, the protected folder only. You will need to mount the folder/volume each time you want to use the data, and dismount the folder/volume when you're done working.
+  * We'll each create a standard volume (in class on Friday). This is where we'll store the data. You'll view or call the data from, or save to, this protected folder only. You will need to mount the folder/volume each time you want to use the data, and dismount the folder/volume when you're done working.
 3. Lab members will not place copies of the data file in any other location, including on portable storage devices or public machines.
 4. Lab members will not print the data file.
 5. When working with the data in non-private spaces, lab members will not leave their computers unattended. 

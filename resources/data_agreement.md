@@ -4,7 +4,7 @@ To insure the security of [moderately sensitive client data](http://security.vir
 
 1. The data will be available for a brief time during class on a shared UVA Box folder, [approved for moderately sensitive data](http://its.virginia.edu/box/responsibilities.html). Lab members will download the file and save it in an encrypted volume. 
 2. Lab members will only keep the data file in an encrypted volume with password protection on their computers.
-  * A common option for Mac, PC, or Linux is the free, open-source encryption software [VeraCrypt](https://www.veracrypt.fr/en/Home.html). 
+  * A common option for Mac, PC, or Linux is the free, open-source encryption software [VeraCrypt](https://www.veracrypt.fr/en/Home.html). This is what we'll use and you need to install it on your machines ahead of time.
   
      * Here are instructions for [installing and using VeraCrypt on a PC](https://securityinabox.org/en/guide/veracrypt/windows/); here's another set of [instructions for PC](https://www.howtogeek.com/108501/the-how-to-geek-guide-to-getting-started-with-truecrypt/). 
      * Here are [instructions for a Mac](https://securityinabox.org/en/guide/veracrypt/mac/); for use on a Mac, you must also install [OSXFUSE, FUSE for MacOS](https://www.macupdate.com/app/mac/40156/fuse-for-macos) including the MacFUSE Compatibility Layer. 

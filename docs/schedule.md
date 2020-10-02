@@ -54,7 +54,7 @@ R materials:
 * [RYouWithMe; VizWhiz](https://rladiessydney.org/courses/ryouwithme/03-vizwhiz-0/), Lesson 1, R-Ladies Sydney
 
 Assignment (due by noon 10/9):
-* R/Data assignment 3 (tba)
+* [R assignment 3](week3-assignment.html)
 
 
 ### 10/16 Case Studies in Child Weflare

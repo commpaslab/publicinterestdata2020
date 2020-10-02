@@ -7,14 +7,12 @@ Again, a simple data dictionary is available on a [shared google sheet](https://
 ### What to do
 Using the same assignment1 folder as before begin a new script, called assign3_initials.R. In this well-commented/formatted script, answer the following questions about the data (using dplyr functions like select, filter, count, group_by, summarize, mutate, factor/forcats functions). Don't forget to load necessary packages upfront.
 
-1. First, update the data to make all of the character variables factors, except for charge and code_section (these are better as strings). Then create a new variable collapsing responses to final disposition like so
+1. First, update the data to make all of the character variables factors, except for charge and code_section (these are better as strings). Then create a new variable collapsing responses to final disposition as below and ordering the levels of the variable by frequency. What's the frequency of this new disposition variable?
 
-* circuit: Certified misdemeanor and Certified grand jury -- these are all sent to be tried in circuit court
-* guilty: Guilty (admission of facts), Guilty in absentia (not in courtroom), Prepaid (fine is paid before hearing)
-* not guilty: Dismissed (closed without finding of guilt), Not guilty (finding of innocence), Noelle Prosequi (not enough evidence to convict, case dropped)
-* other: everything else
-
-Ordering the levels of the variable by frequency. What's the frequency of this new disposition variable?
+   * circuit: Certified misdemeanor and Certified grand jury -- these are all sent to be tried in circuit court
+   * guilty: Guilty (admission of facts), Guilty in absentia (not in courtroom), Prepaid (fine is paid before hearing)
+   * not guilty: Dismissed (closed without finding of guilt), Not guilty (finding of innocence), Noelle Prosequi (not enough evidence to convict, case dropped)
+   * other: everything else
 
 2. Using this new disposition variable (that is, grouping by), what's the mininium, maximum, and median of outcomes like fines, costs, sentence time, and license suspension time by disposition outcome? 
 3. Using this new disposition variable along with race, what's the median and mean of outcomes like fines, costs, sentence time, and license suspension time by race (race6)?

@@ -1,6 +1,6 @@
 ## Week 3 Assignment
 
-Rnotes_20201002.R (TBA)
+[Rnotes_20201002.R](https://raw.githubusercontent.com/commpaslab/publicinterestdata_2020/main/assignments/Rnotes_20201002.R)
 
 VDSS had indicated we'd have the Albemarle County data by the end of September, but alas, we're still waiting. So we'll continue practicing with R using the Albemarle County criminal court records for the week. 
 

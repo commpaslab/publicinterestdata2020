@@ -67,8 +67,7 @@ R materials:
 * [RYouWithMe; VizWhiz](https://rladiessydney.org/courses/ryouwithme/03-vizwhiz-0/), Lessons 2,3, R-Ladies Sydney
 
 Assignment (due by noon 10/16):
-* R/Data assignment 4 (tba)
-
+* [R/Data assignment 4](week4-assignment.html)
 
 ### 10/23 Digging into the Literature, Thinking about Methods
 

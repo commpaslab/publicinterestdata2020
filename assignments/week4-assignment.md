@@ -11,7 +11,7 @@ The VDSS data came in four files
 
 I've created a data dictionary for Referral_Clients -- both to get us started and as a model (including some points where I need to seek clarification). We'll split into groups of 3, and each group will focus on one of the remaining data sets for both (a) and (b).
 
-### The data dictionary -- done once as a group
+### The data dictionary -- done as a group
 
 The shared google sheet for the [data dictionary is here](https://docs.google.com/spreadsheets/d/1_Q_MlYg7DVthBMekUBGI1nZ8n2DcUTe6mTKO3aJOB-I/edit?usp=sharing) (also in the R scripts and I'll post to slack). For your assigned data set
 

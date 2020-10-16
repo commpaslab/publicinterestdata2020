@@ -1,7 +1,7 @@
 ## Week 5 Assignment
 
-[referral_explore.R](https://raw.githubusercontent.com/commpaslab/publicinterestdata_2020/main/assignments/referral_explore.R) - supplemental R file from 10/09
-[referral_explore2.R](https://raw.githubusercontent.com/commpaslab/publicinterestdata_2020/main/assignments/referral_explore2.R) - supplemental R file from 10/16
+* [referral_explore.R](https://raw.githubusercontent.com/commpaslab/publicinterestdata_2020/main/assignments/referral_explore.R) - supplemental R file from 10/09
+* [referral_explore2.R](https://raw.githubusercontent.com/commpaslab/publicinterestdata_2020/main/assignments/referral_explore2.R) - supplemental R file from 10/16
 
 I think we need one more week exploring the data before breaking up into teams to produce, so this week is about getting more familiar with the Albemarle County data, beyond what you were able to learn last week by focusing on a particular data set.
 

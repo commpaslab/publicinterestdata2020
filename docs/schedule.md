@@ -59,9 +59,9 @@ Assignment (due by noon 10/9):
 
 ### 10/16 Case Studies in Child Weflare
 
-Readings: This week, half of the class will read the Eubanks selection, half will read the Roberts selection and we'll educate one another.
-* Virginia Eubanks. 2018. *Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor.* St. Martin's Press. Selection on slack.
-* Dorothty Roberts. 2002. *Shattered Bonds: The Color of Child Welfare.* Basic Books. Selection on slack 
+Readings: This week, a third of the class will read the Eubanks selection, a third will read the Roberts selection 1, a third will read the Roberts seleciton 2,  and we'll educate one another.
+* Virginia Eubanks. 2018. *Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor.* St. Martin's Press. Chapter 4.
+* Dorothty Roberts. 2002. *Shattered Bonds: The Color of Child Welfare.* Basic Books. (Sections 1-5) 
 
 R materials: 
 * [RYouWithMe; VizWhiz](https://rladiessydney.org/courses/ryouwithme/03-vizwhiz-0/), Lessons 2,3, R-Ladies Sydney
@@ -73,7 +73,7 @@ Assignment (due by noon 10/16):
 ### 10/23 Digging into the Literature, Thinking about Methods
 
 Readings:
-* Tukufu Zuberi and Eduardo Bonilla-Silva. 2008. *Whilte Logic, White Methods: Racism and Methodology*. Rowman & Littlefield. Selection on slack.
+* Tukufu Zuberi and Eduardo Bonilla-Silva. 2008. *Whilte Logic, White Methods: Racism and Methodology*. Rowman & Littlefield. Chapters 2 & 7.
 
 R materials: 
 * [RYouWithMe; VizWhiz](https://rladiessydney.org/courses/ryouwithme/03-vizwhiz-0/), Lesson 4 & [RYouWithMe; MarkyMark](https://rladiessydney.org/courses/ryouwithme/04-markymark-0/), Lessons 1-3, R-Ladies Sydney
@@ -85,7 +85,7 @@ Assignment (due by noon 10/23):
 ### 10/30 Digging into the Literature, Thinking about Models
 
 Readings: 
-* (to be updated) Heather Krause. 2020. [Keeping Data Inclusivity without Diluting Your Results.](https://weallcount.com/2020/01/17/keeping-data-inclusivity-without-diluting-your-results/) We All Count blog post. 
+* Lily Hu. 2020. ["Direct Effects."](https://phenomenalworld.org/analysis/direct-effects) Phenomenal World Post.
 * Research articles - 1 per team - assigned on slack
 
 R materials: 

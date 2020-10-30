@@ -88,11 +88,11 @@ Readings:
 * Lily Hu. 2020. ["Direct Effects."](https://phenomenalworld.org/analysis/direct-effects) Phenomenal World Post.
 * Research articles - 1 per team - assigned on slack
 
-R materials: 
-* TBA
+R materials (added for reference)
+* Kyle Walker and Matt Herman. ["Basic usage of tidycensus"](https://walker-data.com/tidycensus/articles/basic-usage.html) and ["Margins of error in the ACS"](https://walker-data.com/tidycensus/articles/margins-of-error.html). 
 
-Assignment (due by noon 10/30)
-* Team data report 1 (tba) in slack/project
+Assignment (due by 2pm 10/30)
+* Team data report 1 in slack/project
 * Team research article synthesis 1 in slack/reading
 
 
@@ -103,11 +103,11 @@ Readings:
 * Research articles - 1 per team - assigned on slack
 
 R materials: 
-* TBA
+* Bradley Boehmke. 2020. *Hands-On Machine Learning with R.* [Chapter 4.2-4.3 (linear regression)](https://bradleyboehmke.github.io/HOML/linear-regression.html#simple-linear-regression) and [Chapter 5.2-5.4 (logistic regression)](https://bradleyboehmke.github.io/HOML/logistic-regression.html#why-logistic-regression).
 
-Assignment (due by noon 11/6)
+Assignment (due by 2pm 11/6)
 * Team peer review of another team's data report 1 in slack/project
-* Team data report 2 (tba) in slack/project
+* Team data report 2 in slack/project
 * Team research article synthesis 2 in slack/reading
 
 
@@ -117,9 +117,9 @@ Readings:
 * (to be updated) Craig M. Dalton and Tim Stallmann. 2018. ["Counter-Mapping Data Science."](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cag.12398) *The Canadian Geographer* 61: 93-101.
 * Research articles - 1 per team - team selection
 
-Assignment (due by noon 11/13)
+Assignment (due by 2pm 11/13)
 * Team peer review of another team's data report 2 in slack/project
-* Team data report 3 (tba) in slack/project
+* Team data report 3 in slack/project
 * Team research article synthesis 3 in slack/reading
 
 
@@ -128,12 +128,11 @@ Assignment (due by noon 11/13)
 Readings: 
 * Ben Green. 2018. ["Data Science as Political Action: Grounding Data Science in a Politics of Justice."](https://arxiv.org/pdf/1811.03435) arXiv preprint arXiv:1811.03435. Part 2, pages 29-46.
 
-Assignment (due by noon 11/20)
-* Team peer review of another team's data report 3 in slack/project
+Assignment (due by 2pm 11/20)
 * Draft Project Status Report in slack/project
 
 
 ### 12/4 (ish) in lieu of our final exam time
 
-Assignment (due by noon 12/4-ish)
+Assignment (due by noon-ish 12/4-ish)
 * Final Project Status Report in slack/project

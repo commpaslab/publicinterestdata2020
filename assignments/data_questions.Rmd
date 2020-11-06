@@ -1,0 +1,108 @@
+---
+title: "Data Questions"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+```
+
+## 1. Referral Data 
+
+Last week, I did some renaming and reformatting of the referral data file. I'll pull that in and use Rmarkdown to clarify some of the remaining questions I have about this dataset.
+
+```{r}
+# Libraries and data
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+
+ref <- readRDS("../data/referrals_cleanish.rds")
+```
+
+### The meaning of codes
+#### Hispanic
+Most of the individual race/ethnicity indicators are coded 0,1 (No, Yes). Hispanic contains four responses: D, N, U, Y. We believe these mean Declined, No, Unknown, Yes. Is that correct?
+
+```{r, echo = FALSE}
+ref %>% count(hispanic) %>% 
+  kbl() %>%
+  kable_styling(bootstrap_options = "striped", full_width = F)
+```
+
+#### Maltreatment type
+In past work, alleged child maltreatment types have been coded 0,1 (not present, present in the report). For the new data, several of the maltreatment types take on additional values. What do 2 or 3 represent here?
+
+```{r, echo = FALSE}
+maltreatment <- ref %>% 
+  count(phys_neg) %>% 
+  rename(response = phys_neg, phys_neg = n) %>% 
+  left_join(ref %>% 
+              count(phys_ab) %>% 
+              rename(response = phys_ab, phys_ab = n)) %>% 
+  left_join(ref %>% 
+              count(ment_ab) %>% 
+              rename(response = ment_ab, ment_ab = n)) %>% 
+  left_join(ref %>% 
+              count(sex_ab) %>% 
+              rename(response = sex_ab, sex_ab = n)) %>% 
+  left_join(ref %>% 
+              count(invalid_an) %>% 
+              rename(response = invalid_an, invalid_an = n)) %>% 
+  left_join(ref %>% 
+              count(med_neg) %>% 
+              rename(response = med_neg, med_neg = n))
+
+kbl(maltreatment) %>% kable_styling(bootstrap_options = "striped")
+```
+
+### Check FID
+
+I noticed that the unique identifier added by VDSS isn't fully unique
+```{r}
+n_distinct(ref$fid) # 2547 distinct, but 2621 obs
+sum(is.na(ref$fid)) # none missing
+```
+
+Some detective work: which fid values are repeated? Create a tmp dataframe containing only duplicated fid values
+```{r}
+tmp <- ref %>% count(fid) %>% filter(n>1) 
+tmp <- ref %>% filter(fid %in% tmp$fid) %>% select(fid, everything())
+```
+
+The repeated fid values appear to only differ by the absence or presence of near_fatal values (all of which are N when present). Excluding this variable, how many of these rows are fully distinct?
+```{r}
+tmp %>% select(-c(near_fatal)) %>% n_distinct()
+```
+
+For every appearance of a repeated FID, I believe one is a duplicate and should be removed.
+
+## 2. Ongoing Services Data 
+
+### Face to face counts
+Only present for 8 observations, 0 for remaining 249
+
+### Dates
+
+A number of cases for which client start date is after client end date; I think these are somehow connected to children within the same household (common
+case ids), but unclear how this happens
+
+```{r}
+#tmp <- oc %>% 
+#  filter(client_involvement_start > client_involvement_end)
+```
+
+### Matching to referral
+TBA
+
+
+## 3. Foster Care Data 
+
+### Face to face counts
+Here all observations have 0 values
+
+
+## 4. Placement History Data 
+
+### Dates
+We recognize that some entry/exit dates are after our expected study period and believe the placement data for children present in the referral data are included. It would help in estimating the duration of placements to have a sense of when the data was extracted. The latest date represented is 2020-07-27 so we assume we could use that date as the end period for this dataset if necessary.

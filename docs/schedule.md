@@ -104,9 +104,9 @@ Readings:
 
 R materials: 
 * Bradley Boehmke. 2020. *Hands-On Machine Learning with R.* [Chapter 4.2-4.3 (linear regression)](https://bradleyboehmke.github.io/HOML/linear-regression.html#simple-linear-regression) and [Chapter 5.2-5.4 (logistic regression)](https://bradleyboehmke.github.io/HOML/logistic-regression.html#why-logistic-regression).
+* [R example](https://raw.githubusercontent.com/commpaslab/publicinterestdata_2020/main/assignments/model_example.R)
 
 Assignment (due by 2pm 11/6)
-* Team peer review of another team's data report 1 in slack/project
 * Team data report 2 in slack/project
 * Team research article synthesis 2 in slack/reading
 
@@ -118,7 +118,7 @@ Readings:
 * Research articles - 1 per team - team selection
 
 Assignment (due by 2pm 11/13)
-* Team peer review of another team's data report 2 in slack/project
+* Team peer review of another team's data report 1 in slack/project
 * Team data report 3 in slack/project
 * Team research article synthesis 3 in slack/reading
 
@@ -129,7 +129,8 @@ Readings:
 * Ben Green. 2018. ["Data Science as Political Action: Grounding Data Science in a Politics of Justice."](https://arxiv.org/pdf/1811.03435) arXiv preprint arXiv:1811.03435. Part 2, pages 29-46.
 
 Assignment (due by 2pm 11/20)
-* Draft Project Status Report in slack/project
+* Team peer review of another team's data report 2 in slack/project
+* Team data report 4 in slack/project
 
 
 ### 12/4 (ish) in lieu of our final exam time

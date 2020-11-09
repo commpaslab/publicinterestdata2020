@@ -114,8 +114,8 @@ Assignment (due by 2pm 11/6)
 ### 11/13 Thinking about Mapping
 
 Readings: 
-* (to be updated) Craig M. Dalton and Tim Stallmann. 2018. ["Counter-Mapping Data Science."](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cag.12398) *The Canadian Geographer* 61: 93-101.
-* Research articles - 1 per team - team selection
+* Craig M. Dalton and Tim Stallmann. 2018. ["Counter-Mapping Data Science."](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cag.12398) *The Canadian Geographer* 61: 93-101.
+* Research articles - 1 per team - assigned on slack
 
 Assignment (due by 2pm 11/13)
 * Team peer review of another team's data report 1 in slack/project

@@ -117,6 +117,9 @@ Readings:
 * Craig M. Dalton and Tim Stallmann. 2018. ["Counter-Mapping Data Science."](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cag.12398) *The Canadian Geographer* 61: 93-101.
 * Research articles - 1 per team - assigned on slack
 
+R materials: 
+* [R example](https://raw.githubusercontent.com/commpaslab/publicinterestdata_2020/main/assignments/model_example2.R)
+
 Assignment (due by 2pm 11/13)
 * Team peer review of another team's data report 1 in slack/project
 * Team data report 3 in slack/project
@@ -127,6 +130,9 @@ Assignment (due by 2pm 11/13)
 
 Readings: 
 * Ben Green. 2018. ["Data Science as Political Action: Grounding Data Science in a Politics of Justice."](https://arxiv.org/pdf/1811.03435) arXiv preprint arXiv:1811.03435. Part 2, pages 29-46.
+
+R materials: 
+* [R example](https://raw.githubusercontent.com/commpaslab/publicinterestdata_2020/main/assignments/model_example3.R)
 
 Assignment (due by 2pm 11/20)
 * Team peer review of another team's data report 2 in slack/project
